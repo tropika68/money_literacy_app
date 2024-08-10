@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500667074949",
+    "project_id": "money-edu-app",
+    "storage_bucket": "money-edu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500667074949:android:e243ff5c321fe82ca3dcec",
+        "android_client_info": {
+          "package_name": "com.example.money_literacy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhO3Jky6z3VOY3bbTeXNV3XViuAicCKqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
